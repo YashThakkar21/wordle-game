@@ -1,10 +1,9 @@
-# Project 2 - *Wordle*
+# *Wordle*
 
 Submitted by: **Yash Thakkar**
 
 **Wordle** is an app where players have 3 to 8 attempts to guess a secret 4 to 7 letter word. After each guess, the game provides feedback by color-coding the letters in the guessed word: - Green: Correct letter in the correct position
 
-Time spent: **2** hours spent in total
 
 ## Required Features
 
